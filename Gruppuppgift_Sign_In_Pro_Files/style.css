@@ -1,0 +1,66 @@
+body {
+	background-color: #353a3f;
+	padding-top: 40px;
+}
+
+a {
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}
+
+p {
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+hr {
+	border-top: 1px solid #888;
+}
+
+img {
+	display: block;
+	margin: auto;
+	width: 40%;
+}
+
+.button {
+	display: inline-block;
+	text-align: center;
+	font-size: 16px;
+	width: 100%;
+	border: 1px solid #000;
+	padding-top: 4px;
+	padding-bottom: 4px;
+}
+
+.button1 {
+  color: #000;
+}
+
+.button1:hover {
+  background-color: #22cc11;
+  color: #FFF;
+  cursor: pointer;
+  border: 1px solid #22cc11;
+}
+
+div.fredrik {
+	background-color: #FFFFFF;
+	width: 630px;
+	height: 700px;
+	margin: auto;
+	top: 300px;
+	border: 1px;
+	border-style: solid;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+div.createaccount {
+	margin: auto;
+}
